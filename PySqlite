@@ -1,0 +1,7 @@
+About pysqlite command change
+
+python version 1.6 ：
+python manage.py sql polls
+
+python version  1.8：
+python manage.py makemigrations polls
